@@ -1,0 +1,50 @@
+/* 
+    main css file Art Store Project
+*/
+
+body {
+    background-image: url(https://raw.githubusercontent.com/istoga/Coding-With-Friends-Project-1/master/stucco.png);
+}
+
+.topnav li {
+
+background-color: brown;
+display: inline;
+padding: 10px;
+}
+
+.smaller-img {
+    width: 350px;
+    height: 375px;
+}
+
+.left {
+    float: left;
+    height: 400px;
+    margin: 15px;
+    
+}
+
+.right {
+    float: left;
+    margin: 25px;
+    height: 400px;
+}
+
+.red {
+    color: red;
+    font-weight: 700;
+}
+
+.underlined{
+    text-decoration:underline;
+    color: blue;
+}
+th, td {
+    width: 150px;
+}
+
+.topbox {
+    background-color: brown;
+    padding: 15px;
+}
